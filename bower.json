@@ -1,0 +1,17 @@
+{
+    "name": "bowlbyone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Vernon Adams"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/bowlbyone-bower.git"
+    },
+    "description": "Bowlby One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
